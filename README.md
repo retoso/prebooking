@@ -1,2 +1,2 @@
 # prebooking
-O projeto consiste em uma pré-agenda diária que permite aos participantes escolher o melhor horário para participar.
+The project consists of a daily pre-schedule that allows participants to choose the best time to participate.
